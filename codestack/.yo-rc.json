@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.codesdk.codestack",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "monolith",
+    "baseName": "codestack",
+    "packageName": "com.codesdk.codestack",
+    "packageFolder": "com/codesdk/codestack",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MDIzZTJjZjM5ZWQ1ZTE2ZTBhYjdhYTZkOGRhM2E0NmRhYjUwNGNlZTFlMDJmMDY3YmMzMWQzMjEzZWIxZTViMWJjMzlhYmRjNDdhOGY3YmMyNTg4MTk0MjA2ODhhODVlZDcxNTFkZWIxMWVhNWRlZDhhOTBjYjQ0ZjQyMDhkYzM=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "fr"]
+  }
+}
