@@ -12,4 +12,6 @@
 ~~~
 
 
-
+~~~
+==> react-native init codestack
+~~~
